@@ -1,0 +1,68 @@
+[
+    {
+        "id": 1,
+        "name": "Java",
+        "category": "Programming Language",
+        "rate": 90
+    },
+    {
+        "id": 2,
+        "name": "Spring Boot",
+        "category": "Frameworks",
+        "rate": 85
+    },
+    {
+        "id": 3,
+        "name": "Laravel",
+        "category": "Frameworks",
+        "rate": 80
+    },
+    {
+        "id": 4,
+        "name": "PHP",
+        "category": "Programming Language",
+        "rate": 75
+    },
+    {
+        "id": 5,
+        "name": "Elixir",
+        "category": "Programming Language",
+        "rate": 50
+    },
+    {
+        "id": 6,
+        "name": "PostgreSQL",
+        "category": "Database",
+        "rate": 90
+    },
+    {
+        "id": 7,
+        "name": "MySQL",
+        "category": "Database",
+        "rate": 90
+    },
+    {
+        "id": 8,
+        "name": "Haskell",
+        "category": "Programming Language",
+        "rate": 50
+    },
+    {
+        "id": 9,
+        "name": "Python",
+        "category": "Programming Language",
+        "rate": 85
+    },
+    {
+        "id": 10,
+        "name": "Tensorflow",
+        "category": "Programming Language",
+        "rate": 80
+    },
+    {
+        "id": 11,
+        "name": "Git",
+        "category": "Tools",
+        "rate": 85
+    }
+]

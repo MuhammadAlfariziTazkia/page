@@ -1,7 +1,12 @@
-a.nav-link {
-    color: black
+
+.nav-item:hover {
+    background: #48D1CC;
 }
 
-.active-link span{
-    color: white
+.nav-item:hover .nav-link{
+    color: white;
+}
+
+.nav-link {
+    color: black;
 }

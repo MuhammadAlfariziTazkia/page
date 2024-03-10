@@ -4,28 +4,15 @@ import { useState } from 'react';
 export default function Navbar() {
 
     const [items, setItems] = useState ([
-        {name: "Home", link: "/page#Home", active: true},
-        {name: "Experiences", link: "/page#Experience", active: false},
-        // {name: "Skills", link: "#", active: false},
-        {name: "Articles", link: "/page#Article", active: false},
+        {name: "Home", link: "/page#Home"},
+        {name: "Articles", link: "/page#Article"},
+        {name: "Experiences", link: "/page#Experience"},
+        {name: "Skills", link: "/page#Skill"},
         // {name: "Educations", link: "#", active: false}
     ])  
 
-    const changeActive = (itemName) => {
-        const newItems = [];
-        items.map(item => {
-            if (item.name === itemName) {
-                item.active = true;
-            } else {
-                item.active = false;
-            }
-            newItems.push(item);
-        });
-        setItems(newItems);
-    }
-
     const itemsElements = items.map(item => {
-        return <NavbarItem key={item.name} items={items} item={item} changeActive={changeActive} />
+        return <NavbarItem key={item.name} item={item} />
     })
     
   return (

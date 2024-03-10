@@ -8,7 +8,7 @@ export default function TopicCard ({topic}) {
             <div className="card mt-3 shadow border-white">
                 <img src={image} class="card-img-top topic-card-img" alt="..."></img>
                 <div className="card-body">
-                    <h5 className="card-title">{topic.name}</h5>
+                    <h5 className="card-title theme-color fw-bold">{topic.name}</h5>
                     <p className="card-text">{topic.description}</p>
                     <a href={topicLink} className="btn theme-bg-color">See Articles</a>
                 </div>

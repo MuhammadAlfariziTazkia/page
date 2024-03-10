@@ -8,12 +8,12 @@ export default function ExperienceCard({ experience }) {
   });
 
   return (
-    <div className="col-md-4">
+    <div className="col-md-6">
       <div className="card shadow mt-3 p-3">
         <div className="card-body">
-          <h4 className="card-title">{experience.company}</h4>
+          <h4 className="card-title fw-bold">{experience.company}</h4>
           <h6 class="card-subtitle mb-2 text-muted">{experience.period}</h6>
-          <h5 className="card-title mt-2 theme-color">- {experience.title} -</h5>
+          <h5 className="card-title mt-2 theme-color fw-bold">- {experience.title} -</h5>
           <p className="card-text mt-3">{experience.description}</p>
           {skillItemsElement}
           <br />

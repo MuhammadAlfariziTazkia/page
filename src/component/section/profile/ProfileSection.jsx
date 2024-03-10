@@ -14,11 +14,11 @@ export default function Home() {
         />
       </div>
       <div>
-        <h2>Hello World!</h2>
-        <h1>
+        <h2 className="fw-bold">Hello World!</h2>
+        <h1 className="fw-bold">
           I am <span className="theme-color">Muhammad Alfarizi Tazkia</span>,
         </h1>
-        <h3>a Software Engineer</h3>
+        <h3 className="fw-bold">a Software Engineer</h3>
       </div>
       <p className="fs-5 mt-4">A Software Engineer who specializes in Backend Development. Has expertise in Java and Spring Framework, and has an interest in studying System Design, Functional Programming, and Machine Learning.</p>
       <div className="row mt-4 mb-3 justify-content-center m-auto">

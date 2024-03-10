@@ -19,7 +19,7 @@
         "company": "Tiket.com",
         "period": "April 2022 - October 2022",
         "description": "Great Giant Foods is a travel technology company. In this company I contribute to the hotel accommodation team",
-        "skills": ["Java", "PostgreSQL", "Spring Framework", "MongoDB", "Reactive Spring Boot"],
+        "skills": ["Java", "PostgreSQL", "MongoDB", "Reactive Spring Boot"],
         "contributions": [
             "Improved hotel accommodation business features, enhancing user management functionality.",
             "Resolved migration issues for 25+ services, ensuring minimal disruption to operations.",

@@ -8,7 +8,7 @@ export default function ArticleSection () {
 
     return (
         <div className="py-5 bg-light" id="Article">
-            <h3 className="theme-color mt-5">Enjoy my Articles!</h3>
+        <h3 className="theme-color mt-5 fw-bold">Enjoy my Articles!</h3>
             <div className="container my-4">
                 <div className="row justify-content-center">
                     {topicsElement}

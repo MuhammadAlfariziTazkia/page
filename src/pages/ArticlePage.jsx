@@ -11,7 +11,7 @@ export default function Articles ({match}) {
     return (
         <div className="container p-5 my-5">
             <center>
-                <h1 className="text-capitalize theme-color mb-5">{topic.replace("-", " ")}</h1>
+                <h1 className="text-capitalize theme-color mb-5 fw-bold">{topic.replace("-", " ")}</h1>
             </center>
             {articleListElement}
         </div>

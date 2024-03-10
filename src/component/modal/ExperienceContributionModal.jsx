@@ -11,8 +11,8 @@ export default function ExperienceContributionModal ({experience, modalId}) {
                         <h1 className="modal-title fs-5" id={label}>{experience.title} @ {experience.company}</h1>
                         <button type="button" className="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                     </div>
-                    <div className="modal-body text-start">
-                        <h4 className="theme-color my-4">My Contributions</h4>
+                    <div className="modal-body text-start py-5">
+                        <h4 className="theme-color mb-5">My Contributions</h4>
                         {contributionListElement}
                     </div>
                 </div>
