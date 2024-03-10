@@ -10,9 +10,9 @@ function App() {
       <Navbar />
       <BrowserRouter>
         <Routes>
-          <Route path='/'>
+          <Route path='/page'>
             <Route index element={<LandingPage />}/>
-            <Route path="/articles/:topic" element={<ArticlePage />}/>
+            <Route path="/page/articles/:topic" element={<ArticlePage />}/>
           </Route>
         </Routes>
       </BrowserRouter>

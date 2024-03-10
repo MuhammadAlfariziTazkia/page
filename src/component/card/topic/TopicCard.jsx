@@ -1,7 +1,7 @@
 import "./TopicCard.css"
 
 export default function TopicCard ({topic}) {
-    const topicLink = `/articles/${topic.slug}`    
+    const topicLink = `/page/articles/${topic.slug}`    
     const image = require(`../../../data/${topic.image}`)
     return (
         <div className="col-md-4">
