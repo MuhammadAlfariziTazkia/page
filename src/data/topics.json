@@ -1,0 +1,23 @@
+[
+    {   
+        "id":1,
+        "name": "Java", 
+        "slug": "java", 
+        "image": "java.png",
+        "description": "Explore Java involves studying its syntax and understanding the concepts of object-oriented programming."
+    },
+    {   
+        "id":2,
+        "name": "System Design", 
+        "image": "system-design.png",
+        "slug": "system-design", 
+        "description": "Designing highly scalable, reliable software: meticulous architecture planning, fault tolerance, and robust monitoring."
+    },
+    {   
+        "id":3,
+        "name": "General Knowledge", 
+        "image": "general-knowledge.png",
+        "slug": "general-knowledge", 
+        "description": "Discussing insights into the software engineering world: trends, challenges, innovations, and best practices."
+    }
+]

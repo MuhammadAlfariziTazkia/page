@@ -1,0 +1,55 @@
+[
+    {
+        "id": "software-engineer-at-hijra",
+        "title": "Software Engineer",
+        "period": "September 2022 - Present",
+        "company": "Hijra Group",
+        "description": "Hijra Group is a sharia-based financial services company. One of the products is Peer to Peer lending investment",
+        "skills": ["Java", "PostgreSQL", "Spring Framework", "Oracle SQL"],
+        "contributions": [
+            "Integrated internal systems with third-party Oracle ERP, increasing financial process efficiency.",
+            "Implemented advanced algorithms for automated credit scoring, enhancing borrower/beneficiary assessments.",
+            "Revamped risk analysis process, contributing to the identification of categorized critical issues.",
+            "Demonstrated adaptability and contributions to Finance, Risk, and Operations teams."
+        ]
+    },
+    {
+        "id": "software-engineer-intern-at-tiket",
+        "title": "Software Engineer Intern",
+        "company": "Tiket.com",
+        "period": "April 2022 - October 2022",
+        "description": "Great Giant Foods is a travel technology company. In this company I contribute to the hotel accommodation team",
+        "skills": ["Java", "PostgreSQL", "Spring Framework", "MongoDB", "Reactive Spring Boot"],
+        "contributions": [
+            "Improved hotel accommodation business features, enhancing user management functionality.",
+            "Resolved migration issues for 25+ services, ensuring minimal disruption to operations.",
+            "Increased code coverage to over 90% for robust and reliable software."
+        ]
+    },
+    {
+        "id": "software-engineer-intern-at-ggf",
+        "title": "Software Engineer",
+        "company": "Great Giant Foods",
+        "period": "October 2021 - April 2022",
+        "description": "Great Giant Foods is an agribusiness company. In this company I contribute to the Risk and Compliance team",
+        "skills": ["PHP", "Laravel", "MySQL", "Javascript", "JQuery", "AJAX"],
+        "contributions": [
+            "Contributed to Risk Management with insights and expertise in risk assessment.",
+            "Initiated, designed, and developed a dynamic Project Management application.",
+            "Implemented a database system, improving data management and analysis."
+        ]
+    },
+    {
+        "id": "software-engineer-intern-at-lingotalk",
+        "title": "Software Engineer Intern",
+        "company": "Lingotalk Indonesia",
+        "period": "June 2021 - October 2021",
+        "description": "Lingotalk Indonesia is an education technology based company whose specialty is foreign language learning",
+        "skills": ["Javascript", "Typescript", "NodeJS", "FaunaDB"],
+        "contributions": [
+            "Contributed to three projects using TypeScript, NodeJS, FaunaDB NoSQL Database.",
+            "Managed discount voucher code activation and question database population.",
+            "Developed Admin Dashboard and Recurring Payment projects."
+        ]
+    }
+]

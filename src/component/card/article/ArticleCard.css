@@ -1,0 +1,7 @@
+.article-card:hover {
+    background: #48D1CC;
+}
+
+.article-card:hover .card-text {
+    color: white;
+}

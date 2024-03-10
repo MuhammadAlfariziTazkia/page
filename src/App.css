@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+
+.theme-color {
+  color: #1ab1ac;
+}
+
+.theme-bg-color {
+  background: #48D1CC;
+  color: white
+}
+
+.theme-bg-color:hover {
+  background-color: black;
+  color: white;
+}

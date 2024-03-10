@@ -1,0 +1,35 @@
+{
+    "java": [
+        {
+            "title": "Introduction to Java",
+            "slug": "java-introduction-to-java",
+            "upload_date": "March 10, 2024",
+            "description": "Let's start to deep dive in Java Programming Language !",
+            "file": "java-introduction-to-java.md"
+        },
+        {
+            "title": "Setup",
+            "slug": "setup",
+            "upload_date": "March 10, 2024",
+            "description": "Before we can develop Java, we should prepare for Java Environment, right?",
+            "file": "java-setup.md"
+        },
+        {
+            "title": "Hello World !",
+            "slug": "hello-world",
+            "upload_date": "March 10, 2024",
+            "description": "How to do basic things: Print Hello World in Java",
+            "file": "java-hello-world.md"
+        }
+    ],
+    "system-design": [
+        {
+            "title": "Introduction to System Design",
+            "slug": "system-design-introduction-to-system-design",
+            "upload_date": "March 10, 2024",
+            "description": "Strong fundamental knowledge for software development",
+            "file": "system-design-introduction-to-system-design.md"
+        }
+    ],
+    "general-knowledge": []
+}
