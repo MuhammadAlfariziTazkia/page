@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/page/static/css/main.6eb17559.css",
+    "main.js": "/page/static/js/main.5394511a.js",
+    "static/js/453.906b0208.chunk.js": "/page/static/js/453.906b0208.chunk.js",
+    "static/media/system-design.png": "/page/static/media/system-design.3ba6e8b7e12ada04aafd.png",
+    "static/media/java.png": "/page/static/media/java.c9a07e843783b45a6a2b.png",
+    "static/media/profile.png": "/page/static/media/profile.b33c0ca72ce92945973e.png",
+    "static/media/general-knowledge.png": "/page/static/media/general-knowledge.523b680dbbd1e7baab79.png",
+    "static/media/java-introduction-to-java.md": "/page/static/media/java-introduction-to-java.7e18c31b4fa3119ee06c.md",
+    "static/media/java-setup.md": "/page/static/media/java-setup.4e00d389c294c743bdc7.md",
+    "index.html": "/page/index.html",
+    "static/media/java-hello-world.md": "/page/static/media/java-hello-world.2f7fea938e772389e41c.md",
+    "static/media/system-design-introduction-to-system-design.md": "/page/static/media/system-design-introduction-to-system-design.62098d9f96c2e7d4c1a9.md",
+    "main.6eb17559.css.map": "/page/static/css/main.6eb17559.css.map",
+    "main.5394511a.js.map": "/page/static/js/main.5394511a.js.map",
+    "453.906b0208.chunk.js.map": "/page/static/js/453.906b0208.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6eb17559.css",
+    "static/js/main.5394511a.js"
+  ]
+}
