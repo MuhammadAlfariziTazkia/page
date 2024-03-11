@@ -5,10 +5,7 @@ JDK is software package that includes tools and components for develop and runni
 1. **Download JDK**, please visit and choose JDK version that you want in this link [https://www.oracle.com/id/java/technologies/downloads/](https://www.oracle.com/id/java/technologies/downloads/)
 2. **Installing JDK**, open JDK file that you download before, and follow steps that provided.
 3. **Verify Installation**, open terminal or prompt or CMD, then type `java -version` to verify installed java version on your machine.&#x20;
-
-If after execute `java -version` you can see installed java version like this :
-
-Congrats ! Java installed successfully in your machine !
+4. If you can see the installed java version, congrats ! Java installed successfully in your machine !
 
 But if you cannot see installed Java version, it means you should setup `environment variables` on your machine. Maybe these following steps can help your issue :
 
@@ -23,12 +20,6 @@ But if you cannot see installed Java version, it means you should setup `environ
 
 Actually you can use **Code Editor** instead of **IDE**. But IMO, using Java IDE can make your development proses faster and easier. These are IDE that you can use for develop Java source code
 
-1.  **IntelliJ IDEA**
-
-    In my opinion, so far IntelliJ IDEA is the most powerful Java IDEA. You can visit this link for choose IntelliJ version that you want -> [https://www.jetbrains.com/idea/download](https://www.jetbrains.com/idea/download). You can use community version for free, or ultimate version for paid software.
-2.  **NetBeans**
-
-    NetBeans is one of the best open source IDE for develop Java. You can visit this link -> [https://netbeans.apache.org/download/index.html](https://netbeans.apache.org/download/index.html)
-3.  **Eclipse**
-
-    Actually I have no enough experience to give review for this IDE, but you can visit this link to try Eclipse -> [https://eclipseide.org/](https://eclipseide.org/)
+1.  **IntelliJ IDEA**, in my opinion, so far IntelliJ IDEA is the most powerful Java IDEA. You can visit this link for choose IntelliJ version that you want -> [https://www.jetbrains.com/idea/download](https://www.jetbrains.com/idea/download). You can use community version for free, or ultimate version for paid software.
+2.  **NetBeans**, NetBeans is one of the best open source IDE for develop Java. You can visit this link -> [https://netbeans.apache.org/download/index.html](https://netbeans.apache.org/download/index.html)
+3.  **Eclipse**, Actually I have no enough experience to give review for this IDE, but you can visit this link to try Eclipse -> [https://eclipseide.org/](https://eclipseide.org/)

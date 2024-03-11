@@ -16,9 +16,9 @@ export default function Navbar() {
     })
     
   return (
-    <nav className="navbar navbar-expand-lg bg-white fixed-top">
+    <nav className="navbar navbar-expand-lg bg-light fixed-top">
       <div className="container">
-        <a className="navbar-brand" href="#">
+        <a className="navbar-brand theme-color fw-bold" href="#">
           Alfarizi's Pages!
         </a>
         <button

@@ -8,8 +8,8 @@
             "file": "java-introduction-to-java.md"
         },
         {
-            "title": "Setup",
-            "slug": "setup",
+            "title": "Environment Setup",
+            "slug": "environment-setup",
             "upload_date": "March 10, 2024",
             "description": "Before we can develop Java, we should prepare for Java Environment, right?",
             "file": "java-setup.md"

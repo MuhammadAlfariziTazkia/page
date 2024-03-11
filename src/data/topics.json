@@ -11,7 +11,7 @@
         "name": "System Design", 
         "image": "system-design.png",
         "slug": "system-design", 
-        "description": "Designing highly scalable, reliable software: meticulous architecture planning, fault tolerance, and robust monitoring."
+        "description": "Designing highly scalable, reliable software: architecture planning, fault tolerance, and robust monitoring."
     },
     {   
         "id":3,
