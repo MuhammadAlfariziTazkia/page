@@ -15,7 +15,6 @@ function App() {
           <Route path="/articles/:topic" element={<ArticlePage />}/>
         </Routes>
       </BrowserRouter>
-      <FooterSection />
     </div>
   );
 }
