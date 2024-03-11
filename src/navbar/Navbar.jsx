@@ -4,10 +4,10 @@ import { useState } from 'react';
 export default function Navbar() {
 
     const [items, setItems] = useState ([
-        {name: "Home", link: "/page#Home"},
-        {name: "Articles", link: "/page#Article"},
-        {name: "Experiences", link: "/page#Experience"},
-        {name: "Skills", link: "/page#Skill"},
+        {name: "Home", link: "/#Home"},
+        {name: "Articles", link: "/#Article"},
+        {name: "Experiences", link: "/#Experience"},
+        {name: "Skills", link: "/#Skill"},
         // {name: "Educations", link: "#", active: false}
     ])  
 
